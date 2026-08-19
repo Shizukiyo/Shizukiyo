@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <p align="center">
-  <a href="https://t.me/shizukiyo">Telegram</a>
-  ·
-  <a href="https://www.twitch.tv/shizukiy0">Twitch</a>
+  <a href="https://t.me/shizukiyo">
+    <img src="https://img.shields.io/badge/Telegram-A535FF?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/shizukiy0">
+    <img src="https://img.shields.io/badge/Twitch-A535FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
 </p>
-</p>
-
 
