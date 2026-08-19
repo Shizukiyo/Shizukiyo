@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Spray+Paint&pause=1000&color=A535FF&center=true&vCenter=true&random=true&width=435&lines=+Hi%2C+I'm+Shizukiyo!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Spray+Paint&pause=1000&color=C442FF&center=true&vCenter=true&random=true&width=435&lines=+Hi%2C+I'm+Shizukiyo!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -8,10 +8,16 @@
 
 <p align="center">
   <a href="https://t.me/shizukiyo">
-    <img src="https://img.shields.io/badge/Telegram-A535FF?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
   </a>
   <a href="https://www.twitch.tv/shizukiy0">
-    <img src="https://img.shields.io/badge/Twitch-A535FF?style=for-the-badge&logo=twitch&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+      alt="Twitch"
+    />
   </a>
 </p>
 
