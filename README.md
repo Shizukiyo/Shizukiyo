@@ -5,3 +5,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3RsYXgxa2dqNDZ5dnllZDFmMGcyZ2txanMxZG41amZ4MTJjcmhyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gvlfPIw77beaA/giphy.gif">
 </p>
+
+<p align="center">
+  <p align="center">
+  <a href="https://t.me/shizukiyo">Telegram</a>
+  ·
+  <a href="https://www.twitch.tv/shizukiy0">Twitch</a>
+</p>
+</p>
+
+
