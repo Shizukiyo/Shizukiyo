@@ -28,7 +28,7 @@
 <article class="game">
 
   <header>
-    <h2>🐀 Текущий проект 🐀</h2>
+    <h1>🐀 Текущий проект 🐀</h1>
   </header>
 
   <section>
@@ -42,7 +42,7 @@
   </section>
 
   <section>
-    <h3>🏷️ Жанры</h3>
+    <h2>🏷️ Жанры</h2>
     <p>
       <code><span>Иммерсивный симулятор</span></code> ·
       <code><span>Рогалик</span></code> ·
