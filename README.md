@@ -63,7 +63,7 @@
       <tbody>
         <tr>
           <th>🎮 Текущая версия</th>
-          <td><code>v0.1.3-pre-alpha</code></td>
+          <td><code>v0.2.0-pre-alpha</code></td>
         </tr>
         <tr>
           <th>📅 Начало разработки</th>
@@ -75,7 +75,7 @@
         </tr>
         <tr>
           <th>🔗 Готовность проекта</th>
-          <td>&lt; 4%</td>
+          <td>&lt; 7%</td>
         </tr>
       </tbody>
     </table>
