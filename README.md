@@ -44,7 +44,6 @@
   <section>
     <h2>🏷️ Жанры</h2>
     <p>
-      <code><span>Иммерсивный симулятор</span></code> ·
       <code><span>Рогалик</span></code> ·
       <code><span>Экшен</span></code> ·
       <code><span>2D</span></code> ·
