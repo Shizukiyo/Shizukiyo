@@ -62,7 +62,7 @@
       <tbody>
         <tr>
           <th>🎮 Текущая версия</th>
-          <td><code>v0.2.3-pre-alpha</code></td>
+          <td><code>v0.2.4-pre-alpha</code></td>
         </tr>
         <tr>
           <th>📅 Начало разработки</th>
